@@ -39,7 +39,6 @@ It provides insights into movie rating trends and highlights popular movie genre
 
 👨‍💻 Author
 Name: Rajit Kathiresan
-UID: 24BIT027
 
 📜 License -:
 This project is created for educational and internship purposes only.
